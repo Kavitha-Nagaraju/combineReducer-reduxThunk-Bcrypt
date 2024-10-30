@@ -1,0 +1,3 @@
+
+combine reducers means combine the reducer in redux while using combin erducer we use to return store.reducerName
+redux is used dispatch the detals and variable and objects while redux Thunk is used to dispatch the functions 
